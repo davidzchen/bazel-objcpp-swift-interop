@@ -1,5 +1,7 @@
 #include "REPGreeter.h"
 
+#include "greeter.h"
+
 @implementation REPGreeter {
   repro::Greeter* _greeter;
 }

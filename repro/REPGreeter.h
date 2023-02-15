@@ -1,7 +1,5 @@
 #import <Foundation/Foundation.h>
 
-#import "greeter.h"
-
 @interface REPGreeter : NSObject
 
 - (instancetype)init;
